@@ -161,7 +161,7 @@ void select_food()
 void showcat_food(int n)
 	{
 
-	    FILE *fp
+	    FILE *fp;
 	    int c;
 
 	    if (n == 50)
